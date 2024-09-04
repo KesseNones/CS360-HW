@@ -1,0 +1,13 @@
+> Searching for colon: 
+=> storage[0] _./assignment4_
+=> storage[1] _ls_
+=> storage[2] _-a_
+=> storage[3] _-la_
+=> argv[0] _./assignment4_
+=> newStringA[0] __
+=> argv[1] _ls_
+=> newStringA[1] __
+=> argv[2] _-a_
+=> newStringA[2] __
+=> argv[3] _-la_
+=> newStringA[3] __
